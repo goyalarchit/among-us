@@ -17,7 +17,8 @@ $ make
 ### Running the Game
 
 ```
-$ build/a
+$ cd build
+$ ./a
 ```
 
 ## Objective
